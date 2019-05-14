@@ -1,0 +1,6 @@
+framework module Pods_keyChainExampleUITests {
+  umbrella header "Pods-keyChainExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
